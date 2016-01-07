@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/CMPE 202/UMLparser/javaparser/javaparser/javaparser-testing/target/javaparser-testing-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/CMPE 202/UMLparser/javaparser/javaparser/javaparser-core/target/javaparser-core-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/CMPE 202/UMLparser/plantuml.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
